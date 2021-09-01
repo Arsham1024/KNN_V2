@@ -4,10 +4,10 @@
 This is the second version aka the second try of the team to rebuild this algorithm after the first version proved to be unsuccessful.
 ---
 Using: 
-      Python
-      Numpy
-      Pandas
-      Matplotlib
-      Google colab
+     * Python
+     * Numpy
+     * Pandas
+     * Matplotlib
+     * Google colab
 ---
 
